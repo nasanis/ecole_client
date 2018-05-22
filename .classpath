@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ecole_client/src"/>
+	<classpathentry kind="lib" path="bin/ecole_client/forms-1.3.0.jar"/>
+	<classpathentry kind="lib" path="bin/ecole_client/itext5-itext-pdfa-5.5.11.jar"/>
+	<classpathentry kind="lib" path="bin/ecole_client/itext5-itext-xtra-5.5.11.jar"/>
+	<classpathentry kind="lib" path="bin/ecole_client/itext5-itextpdf-5.5.11.jar"/>
+	<classpathentry kind="lib" path="bin/ecole_client/itext5-xmlworker-5.5.11.jar"/>
+	<classpathentry kind="lib" path="bin/ecole_client/itext7-kernel-7.0.2.jar"/>
+	<classpathentry kind="lib" path="bin/ecole_client/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="bin/ecole_client/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="bin/ecole_client/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="bin/ecole_client/mysql-connector-java-5.0.7-bin.jar"/>
+	<classpathentry kind="lib" path="bin/ecole_client/syntheticaBlueLight.jar"/>
+	<classpathentry kind="lib" path="bin/ecole_client/theme.jar"/>
+	<classpathentry kind="lib" path="ecole_client/forms-1.3.0.jar"/>
+	<classpathentry kind="lib" path="ecole_client/itext5-itext-pdfa-5.5.11.jar"/>
+	<classpathentry kind="lib" path="ecole_client/itext5-itext-xtra-5.5.11.jar"/>
+	<classpathentry kind="lib" path="ecole_client/itext5-itextpdf-5.5.11.jar"/>
+	<classpathentry kind="lib" path="ecole_client/itext5-xmlworker-5.5.11.jar"/>
+	<classpathentry kind="lib" path="ecole_client/itext7-kernel-7.0.2.jar"/>
+	<classpathentry kind="lib" path="ecole_client/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="ecole_client/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="ecole_client/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="ecole_client/mysql-connector-java-5.0.7-bin.jar"/>
+	<classpathentry kind="lib" path="ecole_client/syntheticaBlueLight.jar"/>
+	<classpathentry kind="lib" path="ecole_client/theme.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="ecole_client/bin"/>
+</classpath>
